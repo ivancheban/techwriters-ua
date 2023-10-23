@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
+  name: Ivan Cheban
+  title: Core Team
   url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  image_url: https://github.com/ivancheban.png
 tags: [hola, docusaurus]
 ---
 
